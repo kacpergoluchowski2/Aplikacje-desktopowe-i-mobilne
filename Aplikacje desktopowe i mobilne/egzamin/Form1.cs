@@ -59,7 +59,7 @@ namespace egzamin
             else if (!e_mail_input.Text.Contains("@"))
                 showMessage("E-mail jest b³êdny");
             else if (password_input.Text != password_input_again.Text)
-                showMessage("Has³a siê róŸni¹");
+                showMessage("Has³a siê róŸniA");
         }
 
         private void password_input_again_TextChanged(object sender, EventArgs e)
