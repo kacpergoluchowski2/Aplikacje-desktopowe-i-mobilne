@@ -33,6 +33,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Desktopowe", "2. Desktop
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstAplicationWinFormsApp", "FirstAplicationWinFormsApp\FirstAplicationWinFormsApp.csproj", "{19CF78A9-E533-4E1F-B986-6D899EE8C7F4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. zadanie", "01. zadanie", "{7FA728CE-6487-46A5-887F-F848A3E7FFFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "egzamin", "egzamin\egzamin.csproj", "{F6E81C1C-8F96-44D8-8603-0358D5CFCB56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +66,10 @@ Global
 		{19CF78A9-E533-4E1F-B986-6D899EE8C7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19CF78A9-E533-4E1F-B986-6D899EE8C7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19CF78A9-E533-4E1F-B986-6D899EE8C7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E81C1C-8F96-44D8-8603-0358D5CFCB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E81C1C-8F96-44D8-8603-0358D5CFCB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E81C1C-8F96-44D8-8603-0358D5CFCB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E81C1C-8F96-44D8-8603-0358D5CFCB56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,6 +88,8 @@ Global
 		{30B0D668-B9F9-447B-82E3-5741C7759B09} = {C29530D3-4AFB-4BE4-89B5-7E8E241A62A4}
 		{C39941D1-21D6-42F1-AFC7-66C297F097ED} = {30B0D668-B9F9-447B-82E3-5741C7759B09}
 		{19CF78A9-E533-4E1F-B986-6D899EE8C7F4} = {3038C732-AA0A-4F1E-9CEA-5E98255FE143}
+		{7FA728CE-6487-46A5-887F-F848A3E7FFFE} = {3038C732-AA0A-4F1E-9CEA-5E98255FE143}
+		{F6E81C1C-8F96-44D8-8603-0358D5CFCB56} = {7FA728CE-6487-46A5-887F-F848A3E7FFFE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E2DA32F-0FC6-4252-9FC0-CD664838E829}
